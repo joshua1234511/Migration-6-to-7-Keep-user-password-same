@@ -1,0 +1,1 @@
+After Migration from 6 to 7 the users cannot login with the existing password have to reset password the following module will give access to users using the old password.
